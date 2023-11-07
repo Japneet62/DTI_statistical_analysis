@@ -1,6 +1,6 @@
 # Diffusion Tensor Imaging (DTI) Statistical Analysis
 ## Project description:
-### Extract the white matter tractography in cortical face processing regions from the neonatal database
+### Extract the white matter tractography in cortical face processing regions of the brain from the Edinburg Neonatal Atlas database
 
 ## Script Description:
 ### 1. prepare_data_wide.R: reshape data to implement statistical analysis 
