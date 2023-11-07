@@ -2,8 +2,8 @@
 ## Project description:
 ### Extract the white matter tractography in cortical face processing regions of the brain from the Edinburg Neonatal Atlas database.
 #### Please find more information about the project here:
-#### 
-#### 
+#### Abstract:  
+#### Poster: 
 
 ## Script Description:
 ### 1. prepare_data_wide.R: reshape data to implement statistical analysis 
